@@ -34,6 +34,6 @@ Un guide pour vous aider à naviguer dans mon portfolio.
 
 | Lien du projet | Domaine | Description du projet | Outils |    
 |---|---|---|---|
-|⚙️[Automatisation du traitement de fichiers](https://github.com/FlorianThd/Automatisation_Excel_RGPD)|Création de pipeline, automatisation de tâches répétitives, RGPD|Pour département RH, nous faisons en sorte d'automatiser le traitement de nombreux fichiers Excel, de façon à anonymiser les profils des salariés et respecter les RGPD.|Excel,KNIME|
+|⚙️[Automatisation du traitement de fichiers Excel](https://github.com/FlorianThd/Automatisation_Excel_RGPD)|Création de pipeline, automatisation de tâches répétitives, RGPD|Pour département RH, nous faisons en sorte d'automatiser le traitement de nombreux fichiers Excel, de façon à anonymiser les profils des salariés et respecter les RGPD.|Excel, KNIME|
 
 ***
