@@ -1,5 +1,5 @@
-# Guide-Portfolio
-Un guide pour vous aider à naviguer dans mon portfolio.
+# Sommaire
+Vous pourrez facilement parcourir mon portfolio grâce au tableau ci-dessous.
 
 # Python
 
