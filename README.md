@@ -1,7 +1,7 @@
 # Portfolio
 Le tableau ci-dessous vous permettra de parcourir mes différents projets.
 
-# Projets en Python
+## Projets en Python
 
 | Lien du projet | Domaine | Description du projet | Librairies utilisées |
 |---|---|---|---|
@@ -14,7 +14,7 @@ Le tableau ci-dessous vous permettra de parcourir mes différents projets.
 
 ***
 
-# Data Visualisation
+## Data Visualisation
 
 | Lien du projet | Domaine | Description du projet | Outils |    
 |---|---|---|---|
@@ -22,7 +22,7 @@ Le tableau ci-dessous vous permettra de parcourir mes différents projets.
 
 ***
 
-# Projet en SQL
+## Projet en SQL
 
 | Lien du projet | Domaine | Description du projet | Outils |    
 |---|---|---|---|
@@ -30,7 +30,7 @@ Le tableau ci-dessous vous permettra de parcourir mes différents projets.
 
 ***
 
-# Automatisation
+## Automatisation
 
 | Lien du projet | Domaine | Description du projet | Outils |    
 |---|---|---|---|
