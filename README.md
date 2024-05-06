@@ -1,6 +1,6 @@
 # Portfolio
 Le tableau ci-dessous vous permettra de parcourir facilement mes différents projets.
-
+<br></br>
 ## Projets en Python
 
 | Lien du projet | Domaine | Description du projet | Librairies utilisées |
