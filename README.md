@@ -1,5 +1,5 @@
 # Portfolio
-Le tableau ci-dessous vous permettra de parcourir facilement mes différents projets.
+La page ci-dessous vous permettra de parcourir facilement mes différents projets.
 <br></br>
 ## Projets en Python
 
@@ -34,6 +34,6 @@ Le tableau ci-dessous vous permettra de parcourir facilement mes différents pro
 
 | Lien du projet | Domaine | Description du projet | Outils |    
 |---|---|---|---|
-|⚙️[Automatisation du traitement de fichiers Excel](https://github.com/FlorianThd/Automatisation_Excel_RGPD)|Création de pipeline, automatisation de tâches répétitives, RGPD|Pour département RH, nous faisons en sorte d'automatiser le traitement de nombreux fichiers Excel, de façon à anonymiser les profils des salariés et respecter les RGPD.|Excel, KNIME|
+|⚙️[Automatisation du traitement de fichiers Excel](https://github.com/FlorianThd/Automatisation_Excel_RGPD)|Création de pipeline, automatisation de tâches répétitives, RGPD|Pour un département RH, nous faisons en sorte d'automatiser le traitement de nombreux fichiers Excel, de façon à anonymiser les profils des salariés et respecter les RGPD.|Excel, KNIME|
 
 ***
