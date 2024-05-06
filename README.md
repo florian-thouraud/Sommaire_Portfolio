@@ -1,7 +1,7 @@
 # Sommaire
-Vous pourrez facilement parcourir mon portfolio grâce au tableau ci-dessous.
+Le tableau ci-dessous vous permettra de parcourir mes différents projets.
 
-# Python
+# Projets en Python
 
 | Lien du projet | Domaine | Description du projet | Librairies utilisées |
 |---|---|---|---|
@@ -22,7 +22,7 @@ Vous pourrez facilement parcourir mon portfolio grâce au tableau ci-dessous.
 
 ***
 
-# SQL
+# Projet en SQL
 
 | Lien du projet | Domaine | Description du projet | Outils |    
 |---|---|---|---|
