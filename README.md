@@ -1,5 +1,5 @@
 # Portfolio
-Le tableau ci-dessous vous permettra de parcourir mes différents projets.
+Le tableau ci-dessous vous permettra de parcourir facilement mes différents projets.
 
 ## Projets en Python
 
